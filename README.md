@@ -2,100 +2,73 @@
 
 ## Project Overview
 
-The AI Workplace Productivity Assistant is a modern AI-powered web application designed to help professionals automate common workplace tasks efficiently. The platform improves productivity by using artificial intelligence to assist users with professional communication, meeting management, and task organization.
+AI Workplace Productivity Assistant is a modern AI-powered productivity platform designed to help professionals streamline and automate common workplace activities through artificial intelligence.
 
-This project focuses on practical AI implementation, prompt engineering, modern UI/UX design, and responsible AI usage within a single integrated productivity dashboard.
+The application provides an integrated dashboard experience where users can interact with multiple AI-powered tools in one centralized workspace. The platform focuses on improving efficiency, saving time, and enhancing workplace productivity through intelligent automation and structured AI interactions.
 
-The application provides users with AI-powered tools that simplify daily work activities and improve workflow management in professional environments.
+This project was developed using a modern responsive SaaS-style interface with sidebar navigation, clean UI/UX principles, and responsive layouts optimized for both desktop and mobile devices.
+
+The system includes powerful workplace productivity tools such as:
+
+- Smart Email Generator
+- Meeting Notes Summarizer
+- AI Task Planner / Scheduler
+
+The Smart Email Generator helps users create professional emails in different tones such as formal, friendly, and persuasive. The Meeting Notes Summarizer transforms lengthy meeting discussions into concise summaries while extracting important action items, deadlines, and decisions. The AI Task Planner assists users in organizing schedules, prioritizing tasks, and improving daily productivity.
+
+The application also emphasizes responsible AI usage by encouraging users to review and verify AI-generated outputs before professional use.
+
+This project demonstrates:
+- Practical AI implementation
+- Real-world workplace problem solving
+- Prompt engineering techniques
+- Modern responsive UI/UX design
+- Responsible AI practices
+- Interactive dashboard development
 
 ---
 
 # Features
 
-## 1. Smart Email Generator
-The Smart Email Generator helps users create professional emails instantly using AI.
+## Smart Email Generator
+Generate professional emails instantly using AI with multiple tone options including:
+- Formal
+- Friendly
+- Persuasive
 
-### Functions:
-- Generate professional emails
-- Support multiple tones:
-  - Formal
-  - Friendly
-  - Persuasive
-- Editable AI-generated responses
-- Copy-to-clipboard functionality
-
-### Example:
-Users can enter a topic such as:
-> “Request a meeting reschedule”
-
-The AI will generate a professional email automatically.
-
----
-
-## 2. Meeting Notes Summarizer
-This feature allows users to summarize lengthy meeting notes into short, clear, and organized summaries.
-
-### Functions:
-- Summarize meeting discussions
-- Extract:
-  - Action items
-  - Decisions made
-  - Deadlines
-- Improve workplace productivity and communication
-
-### Example:
-Users paste meeting notes and receive:
-- A summarized overview
+## Meeting Notes Summarizer
+Summarize long meeting notes and automatically extract:
+- Action items
 - Important decisions
-- Assigned tasks and deadlines
+- Deadlines
 
----
-
-## 3. AI Task Planner / Scheduler
-The AI Task Planner helps users organize tasks and manage their schedules more effectively.
-
-### Functions:
-- Generate daily schedules
-- Prioritize tasks
-- Improve time management
-- Suggest productivity improvements
-
-### Example:
-Users input:
-- Tasks
-- Priorities
-- Available hours
-
-The AI generates a structured and optimized schedule.
-
----
-
-# Dashboard Structure
-
-The application includes:
-- Modern dashboard layout
-- Sidebar navigation
-- Responsive design for mobile and desktop
-- Input and output sections
-- Editable AI responses
-- Professional SaaS-inspired UI/UX
+## AI Task Planner / Scheduler
+Generate organized schedules and prioritize tasks effectively to improve productivity and time management.
 
 ---
 
 # Technologies Used
 
-## Frontend
-- HTML
-- CSS
-- JavaScript
-
-## AI Tools
+- React
+- TypeScript
+- Tailwind CSS
+- TanStack Router
+- TanStack Query
 - OpenAI API
 - Lovable AI
 
-## Deployment & Version Control
-- GitHub
-- Vercel
+---
+
+# Application Structure
+
+The application includes:
+- Modern dashboard layout
+- Sidebar navigation
+- Responsive mobile and desktop design
+- AI input and output sections
+- Interactive user interface
+- Professional SaaS-inspired design
+- Responsible AI disclaimer
 
 ---
 
@@ -103,30 +76,19 @@ The application includes:
 
 1. Clone the repository
 2. Open the project folder
-3. Install dependencies if applicable
-4. Run the application in the browser or local server
+3. Install project dependencies
+4. Run the development server
+5. Open the application in your browser
 
 ---
 
 # Responsible AI Disclaimer
 
-AI-generated content may contain inaccuracies or incomplete information. Users should review and verify all outputs before using them for professional or official purposes.
+AI-generated content may contain inaccuracies or incomplete information. Users are encouraged to review and verify all generated outputs before using them for professional or official purposes.
 
 ---
 
 # Team Members
 
 - Qhama Dyushu
-
----
-
-# Project Goals
-
-This project aims to:
-- Demonstrate practical AI implementation
-- Solve real-world workplace productivity problems
-- Apply strong prompt engineering techniques
-- Build a modern and responsive user interface
-- Promote responsible and ethical AI usage
-
 ```
