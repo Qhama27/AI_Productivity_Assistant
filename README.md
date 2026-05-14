@@ -92,3 +92,10 @@ AI-generated content may contain inaccuracies or incomplete information. Users a
 
 - Qhama Dyushu
 ```
+
+# Project Goals
+
+This project aims to:
+
+Demonstrate practical AI implementation Solve real-world workplace productivity problems Apply strong prompt engineering techniques Build a modern and responsive user interface Promote responsible and ethical AI usage
+
