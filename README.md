@@ -2,11 +2,13 @@
 
 ## Project Overview
 
-AI Workplace Productivity Assistant is a modern AI-powered productivity platform designed to help professionals streamline and automate common workplace activities through artificial intelligence.
+WorkWise AI is a modern AI-powered workplace productivity platform designed to help professionals streamline and automate common workplace activities through artificial intelligence.
 
-The application provides an integrated dashboard experience where users can interact with multiple AI-powered tools in one centralized workspace. The platform focuses on improving efficiency, saving time, and enhancing workplace productivity through intelligent automation and structured AI interactions.
+The application provides an integrated dashboard experience where users can interact with multiple AI-powered tools in one centralized workspace. The platform focuses on improving efficiency, saving time, enhancing communication, and increasing overall workplace productivity through intelligent automation and structured AI interactions.
 
-This project was developed using a modern responsive SaaS-style interface with sidebar navigation, clean UI/UX principles, and responsive layouts optimized for both desktop and mobile devices.
+Built using a modern SaaS-style interface, WorkWise AI features responsive layouts, clean UI/UX principles, and sidebar navigation optimized for both desktop and mobile devices.
+
+Live Demo: https://smartspark-desk.lovable.app/
 
 The system includes powerful workplace productivity tools such as:
 
